@@ -1,4 +1,4 @@
-import Book from "./components/book/Book";
+import Book from "./components/book/Book.jsx";
 
 
 const App = () => {
