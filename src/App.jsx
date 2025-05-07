@@ -1,6 +1,5 @@
-// App.jsx
+import Book from "./components/book/Book";
 
-import Book from "./components/Book/Book";
 
 const App = () => {
   return (
